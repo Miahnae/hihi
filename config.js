@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không, bé à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao vẫn cứ thích bé <3',
     btnReply: 'Gửi cho bé <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <3',
     mess: 'bé biết mà 🥰. Yêu nhiều nhiều 😘😘',
     messDesc: 'Hết dịch nhớ chở bé đi chơi nhá.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Okiiiii ib sét kèo lun <3',
+    messLink: 'https://www.facebook.com/samminguyen.co' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
